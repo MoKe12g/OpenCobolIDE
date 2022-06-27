@@ -15,11 +15,6 @@ from pyqode.qt import QtGui
 windows = platform.system() == 'Windows'
 darwin = platform.system() == 'Darwin'
 linux = platform.system() == 'Linux'
-if linux:
-    import distro
-    ubuntu = distro.linux_distribution(full_distribution_name=False)[0].lower() == 'ubuntu'
-else:
-    ubuntu = False
 
 
 def _mkdir(func):
