@@ -60,3 +60,10 @@ deb_dist
 # hackedit project files
 .hackedit
 
+/open_cobol_ide/extlibs/future/**
+/open_cobol_ide/extlibs/keyring/**
+/open_cobol_ide/extlibs/pygments/**
+/open_cobol_ide/extlibs/pyqode/**
+/open_cobol_ide/extlibs/qcrash/**
+/open_cobol_ide/extlibs/qdarkstyle/**
+/open_cobol_ide/extlibs/enum.py
