@@ -1,6 +1,6 @@
 pygments
 pyqode.core
-pyqode.cobol
+pyqode.cobol @ git+https://github.com/MoKe12g/pyqode.cobol@master
 pyqode.qt
 qcrash
 qdarkstyle
